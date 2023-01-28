@@ -1,0 +1,2 @@
+# Arithmetic Calculator Game
+A project created during JetBrains Python Core course. It asks user to choose between 2 levels and then gives user equation that it has to solve, afterwards it prints the user's score and offers to save it in results.txt file.
